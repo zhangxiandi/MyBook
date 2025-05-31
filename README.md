@@ -10,7 +10,7 @@
 npm install 
 ```
 
-最后：
+然后：
 
 ```
 npm run dev
