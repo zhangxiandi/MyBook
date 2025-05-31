@@ -10,12 +10,6 @@
 npm install 
 ```
 
-然后：
-
-```
-npm install router/pinia/pdfjs-dist vue-pdf-embed/element-plus --save/vee-validate --save
-```
-
 最后：
 
 ```
